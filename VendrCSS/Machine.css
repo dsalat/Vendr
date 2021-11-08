@@ -1,0 +1,131 @@
+.item img{
+  width: 104px;
+  height: 201px;
+}
+
+.item-counter{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.item-price{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+.item-double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+  padding: 20px;
+  align-items: flex-end;
+  /* align vertical */
+}
+
+#number{
+  border-radius: 10px;
+  width: 50;
+  height: 30px;
+  padding-left: 10px;
+  border: none;
+}
+.item-quant{
+  border-radius: 10px;
+  width: 50;
+  height: 30px;
+  padding-left: 10px;
+  border: none;
+}
+
+
+.cart-column{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding: 20px;
+  align-items: center;
+}
+
+.cart-item-row{
+  display: none;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.cart-item-name{
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cart-item-quantity{
+  color: #c10a0a;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cart-item-price{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cart-module-row{
+  border-bottom: 1px solid white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.total-row{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.total{
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.total-price{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 36px;
+}
+
+#pay {
+  color: #ffffff;
+  width: 100px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+  background: #59adff;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 4px;
+  border: unset;
+  height: 32px;
+}

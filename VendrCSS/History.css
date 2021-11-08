@@ -1,0 +1,93 @@
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-weight: 700;
+}
+
+.collapsible-active, .collapsible:hover {
+  background-color: #555;
+}
+
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: rgba(211,211,211,0.03);
+}
+
+.cart-column{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding: 20px;
+  align-items: center;
+}
+
+.cart-item-row{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.cart-item-name{
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cart-item-quantity{
+  color: #c10a0a;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cart-item-price{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.cart-module-row{
+  border-bottom: 1px solid white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.total-row{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.total{
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.total-price{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 36px;
+}

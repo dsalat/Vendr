@@ -1,0 +1,59 @@
+#fullHD {
+  background: #121212;
+  display: inline-block;
+}
+
+#vendr {
+  color: #59adff;
+  font-family: "Segoe UI";
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 96px;
+  margin: 0px;
+  float: left;
+  flex: 2;
+
+}
+
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding: 20px;
+  justify-content: center;
+  /* align horizontal */
+  align-items: center;
+  /* align vertical */
+}
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+  padding: 20px;
+}
+
+.quad-column{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 4;
+  padding: 20px;
+  align-items: center;
+  /* align vertical */
+}
+
+body {
+  margin:auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}

@@ -1,0 +1,43 @@
+.account-information{
+  float:left;
+}
+
+.account-information label{
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.account-information p{
+  color: rgba(211,211,211,0.5);
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.title{
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 48px;
+  font-weight: 700;
+}
+
+#edit {
+  color: #ffffff;
+  width: auto;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+  background: #59adff;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 4px;
+  border: unset;
+  height: 32px;
+  padding: 5px;
+}

@@ -1,0 +1,957 @@
+#fullHD {
+  z-index: 2;
+  width: 1920px;
+  height: 1080px;
+  background: #121212}
+
+#cartModule {
+  z-index: 3;
+  width: 432px;
+  height: 534px;
+}
+
+#buttonsTex {
+  z-index: 4;
+  width: 115px;
+  height: 35px;
+}
+
+#surface {
+  z-index: 5;
+  width: 115px;
+  height: 35px;
+}
+
+#cONTAINERC {
+  z-index: 5;
+  width: 115px;
+  height: 35px;
+}
+
+#rectangle1 {
+  z-index: 6;
+  width: 115px;
+  height: 35px;
+  background: #59adff;
+}
+
+#tEXTCOLORS {
+  z-index: 5;
+  width: 99px;
+  height: 16px;
+}
+
+#create {
+  z-index: 6;
+  width: 99px;
+  height: 16px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+}
+
+#total {
+  z-index: 4;
+  width: 432px;
+  height: 134px;
+}
+
+#rectangle3 {
+  z-index: 5;
+  width: 432px;
+  height: 2px;
+  background: #84898c;
+}
+
+#a {
+  z-index: 5;
+  width: 109px;
+  height: 56px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#total {
+  z-index: 5;
+  width: 115.62px;
+  height: 64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 64px;
+}
+
+#allItems {
+  z-index: 4;
+  width: 243px;
+  height: 184px;
+}
+
+#cartItem3 {
+  z-index: 5;
+  width: 242.95px;
+  height: 46px;
+}
+
+#x2 {
+  z-index: 6;
+  width: 23.95px;
+  height: 32px;
+  color: #c10a0a;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#a {
+  z-index: 6;
+  width: 56.95px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 6;
+  width: 87px;
+  height: 46px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#cartItem2 {
+  z-index: 5;
+  width: 242.95px;
+  height: 46px;
+}
+
+#x2 {
+  z-index: 6;
+  width: 23.95px;
+  height: 32px;
+  color: #c10a0a;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#a {
+  z-index: 6;
+  width: 56.95px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 6;
+  width: 87px;
+  height: 46px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#cartItem {
+  z-index: 5;
+  width: 242.95px;
+  height: 46px;
+}
+
+#x2 {
+  z-index: 6;
+  width: 23.95px;
+  height: 32px;
+  color: #c10a0a;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#a {
+  z-index: 6;
+  width: 56.95px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 6;
+  width: 87px;
+  height: 46px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#addedToCar {
+  z-index: 4;
+  width: 307.52px;
+  height: 64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 64px;
+}
+
+#vendingMac {
+  z-index: 3;
+  width: 595px;
+  height: 336px;
+}
+
+#itemModule {
+  z-index: 4;
+  width: 111.64px;
+  height: 333.6px;
+}
+
+#a {
+  z-index: 5;
+  width: 27.61px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 5;
+  width: 104.21px;
+  height: 201.74px;
+}
+
+#counterMod {
+  z-index: 5;
+  width: 109.19px;
+  height: 57.64px;
+}
+
+#itemCount {
+  z-index: 6;
+  width: 58.89px;
+  height: 57.64px;
+}
+
+#rectangle {
+  z-index: 7;
+  width: 58.89px;
+  height: 57.64px;
+  border-radius: 10px;
+  background: rgba(211,211,211,0.15);
+}
+
+#a {
+  z-index: 7;
+  width: 23.81px;
+  height: 57.64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#upArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#downArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+  transform: scaleY(-1);
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#itemModule {
+  z-index: 4;
+  width: 111.64px;
+  height: 334.8px;
+}
+
+#a {
+  z-index: 5;
+  width: 27.61px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 5;
+  width: 104.21px;
+  height: 201.74px;
+}
+
+#counterMod {
+  z-index: 5;
+  width: 109.19px;
+  height: 57.64px;
+}
+
+#itemCount {
+  z-index: 6;
+  width: 58.89px;
+  height: 57.64px;
+}
+
+#rectangle {
+  z-index: 7;
+  width: 58.89px;
+  height: 57.64px;
+  border-radius: 10px;
+  background: rgba(211,211,211,0.15);
+}
+
+#a {
+  z-index: 7;
+  width: 23.81px;
+  height: 57.64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#upArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#downArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+  transform: scaleY(-1);
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#itemModule {
+  z-index: 4;
+  width: 111.64px;
+  height: 336px;
+}
+
+#pepsi {
+  z-index: 5;
+  width: 104.21px;
+  height: 201.74px;
+}
+
+#a {
+  z-index: 5;
+  width: 27.61px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#counterMod {
+  z-index: 5;
+  width: 109.19px;
+  height: 57.64px;
+}
+
+#itemCount {
+  z-index: 6;
+  width: 58.89px;
+  height: 57.64px;
+}
+
+#rectangle {
+  z-index: 7;
+  width: 58.89px;
+  height: 57.64px;
+  border-radius: 10px;
+  background: rgba(211,211,211,0.15);
+}
+
+#a {
+  z-index: 7;
+  width: 23.81px;
+  height: 57.64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#upArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#downArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+  transform: scaleY(-1);
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#vendingMac {
+  z-index: 3;
+  width: 595px;
+  height: 336px;
+}
+
+#itemModule {
+  z-index: 4;
+  width: 111.64px;
+  height: 333.6px;
+}
+
+#a {
+  z-index: 5;
+  width: 27.61px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 5;
+  width: 104.21px;
+  height: 201.74px;
+}
+
+#counterMod {
+  z-index: 5;
+  width: 109.19px;
+  height: 57.64px;
+}
+
+#itemCount {
+  z-index: 6;
+  width: 58.89px;
+  height: 57.64px;
+}
+
+#rectangle {
+  z-index: 7;
+  width: 58.89px;
+  height: 57.64px;
+  border-radius: 10px;
+  background: rgba(211,211,211,0.15);
+}
+
+#a {
+  z-index: 7;
+  width: 23.81px;
+  height: 57.64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#upArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#downArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+  transform: scaleY(-1);
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#itemModule {
+  z-index: 4;
+  width: 111.64px;
+  height: 334.8px;
+}
+
+#a {
+  z-index: 5;
+  width: 27.61px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#pepsi {
+  z-index: 5;
+  width: 104.21px;
+  height: 201.74px;
+}
+
+#counterMod {
+  z-index: 5;
+  width: 109.19px;
+  height: 57.64px;
+}
+
+#itemCount {
+  z-index: 6;
+  width: 58.89px;
+  height: 57.64px;
+}
+
+#rectangle {
+  z-index: 7;
+  width: 58.89px;
+  height: 57.64px;
+  border-radius: 10px;
+  background: rgba(211,211,211,0.15);
+}
+
+#a {
+  z-index: 7;
+  width: 23.81px;
+  height: 57.64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#upArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#downArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+  transform: scaleY(-1);
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#itemModule {
+  z-index: 4;
+  width: 111.64px;
+  height: 336px;
+}
+
+#pepsi {
+  z-index: 5;
+  width: 104.21px;
+  height: 201.74px;
+}
+
+#a {
+  z-index: 5;
+  width: 27.61px;
+  height: 32px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+#counterMod {
+  z-index: 5;
+  width: 109.19px;
+  height: 57.64px;
+}
+
+#itemCount {
+  z-index: 6;
+  width: 58.89px;
+  height: 57.64px;
+}
+
+#rectangle {
+  z-index: 7;
+  width: 58.89px;
+  height: 57.64px;
+  border-radius: 10px;
+  background: rgba(211,211,211,0.15);
+}
+
+#a {
+  z-index: 7;
+  width: 23.81px;
+  height: 57.64px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 48px;
+}
+
+#upArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#downArrow {
+  z-index: 6;
+  width: 33.12px;
+  height: 25.64px;
+  transform: scaleY(-1);
+}
+
+#iconnaviga {
+  z-index: 7;
+  width: 33.12px;
+  height: 25.64px;
+}
+
+#iconColor {
+  z-index: 7;
+  width: 57.66px;
+  height: 55.7px;
+}
+
+#rectangle {
+  z-index: 8;
+  width: 57.66px;
+  height: 55.7px;
+  background: rgba(0,0,0,0.54);
+}
+
+#header {
+  z-index: 3;
+  width: 1706px;
+  height: 88px;
+}
+
+#vendr {
+  z-index: 4;
+  width: 214px;
+  height: 85px;
+  color: #5b91e2;
+  font-family: "Segoe UI";
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 96px;
+}
+
+#navigation {
+  z-index: 4;
+  width: 408px;
+  height: 46px;
+}
+
+#navigation {
+  z-index: 5;
+  width: 143px;
+  height: 44px;
+}
+
+#account {
+  z-index: 6;
+  width: 143px;
+  height: 44px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+}
+
+#navigation {
+  z-index: 5;
+  width: 120px;
+  height: 22px;
+}
+
+#history {
+  z-index: 6;
+  width: 120px;
+  height: 22px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+}
+
+#navigation {
+  z-index: 5;
+  width: 99px;
+  height: 39px;
+}
+
+#group {
+  z-index: 6;
+  width: 99px;
+  height: 39px;
+}
+
+#home {
+  z-index: 7;
+  width: 99px;
+  height: 22px;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: center;
+}
+
+#rectangle3 {
+  z-index: 7;
+  width: 79.7px;
+  height: 2px;
+  background: #0078d4;
+}

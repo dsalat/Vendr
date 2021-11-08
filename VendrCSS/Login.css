@@ -1,0 +1,91 @@
+#fullHD {
+  background: #121212;
+  display: flex;
+}
+
+#vendr {
+  color: #59adff;
+  font-family: "Segoe UI";
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 96px;
+  margin: 0px;
+  text-align: center;
+
+}
+
+#fullLogin {
+  border-radius: 18px;
+  background: #1b1a1a;
+  margin:auto;
+  padding: 7px;
+}
+
+#loginTitle {
+  width: auto;
+  height: auto;
+  color: #ffffff;
+  font-family: "Segoe UI";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  margin:auto;
+}
+
+#loginInfor {
+  padding: 25px;
+}
+
+form {
+  display: table;
+  text-align: center;
+}
+
+form input {
+  width: 266px;
+  height: 32px;
+  background: #f3f2f1;
+  margin-bottom: 10px;
+  border: unset;
+  padding-left: 4px;
+  border-radius: 4px;
+}
+
+body {
+  margin:auto;
+}
+
+#userName {
+  z-index: 6;
+  color: #a19f9d;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+#password {
+  z-index: 6;
+  color: #a19f9d;
+  font-family: "Segoe UI";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+#login {
+  color: #ffffff;
+  width: 100px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1.25px;
+  background: #59adff;
+  margin: 0px;
+  padding: 0px;
+  border-radius: 4px;
+}
